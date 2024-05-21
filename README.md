@@ -7,5 +7,3 @@ Consigli del giorno:
 
 - regola d'oro: riciclare ovunque possibile! Questo significa che per la parte di markup possiamo recuperare html e css dell'esercizio svolto qualche giorno fa: è già tutto pronto!
 - il riciclo spesso va a braccetto con le funzioni! Sapendole sfruttare bene, l'esercizio si riduce a poche righe :occhiolino:
-  Sorpresa:
-  Vi lascio un markup html bello pronto da utilizzare, se volete potete partire da questo
